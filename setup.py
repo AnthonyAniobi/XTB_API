@@ -1,8 +1,23 @@
 from setuptools import setup, find_packages
 
 VERSION = '0.0.1' 
-DESCRIPTION = 'Package for XTB api'
-LONG_DESCRIPTION = 'Some long description for the xtb package'
+DESCRIPTION = 'Package for XTB api trading bot (in production)'
+LONG_DESCRIPTION = '''
+This is a bot api for the xtb currently contribute to the project at my github profile
+
+https://github.com/AnthonyAniobi/XTB_API
+
+[Github](https://github.com/AnthonyAniobi/XTB_API)
+
+
+`profile`
+
+
+```
+Github = profile
+```
+
+'''
 
 # Setting up
 setup(
