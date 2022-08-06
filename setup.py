@@ -7,7 +7,7 @@ LONG_DESCRIPTION = 'Some long description for the xtb package'
 # Setting up
 setup(
        # the name must match the folder name 'verysimplemodule'
-        name="xtb_api", 
+        name="xtb_bot-api", 
         version=VERSION,
         author="Anthony Aniobi",
         author_email="anthonyaniobi198@gmail.com",
