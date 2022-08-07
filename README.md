@@ -1,2 +1,3 @@
-# XTB_API
-XTB api for forex trading using xtb
+# XTB BOT API
+
+This is an api for creating trading bots using the xtb api
