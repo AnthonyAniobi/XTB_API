@@ -34,9 +34,9 @@ jobs:
 
     # release app for the app
     - uses: actions/upload-artifact@v1
-        with:
-          name: release-package
-          path: dist/
+      with:
+        name: release-package
+        path: dist/
 
     - name: Publish package
       uses: pypa/gh-action-pypi-publish@27b31702a0e7fc50959f5ad993c78deac1bdfc29
